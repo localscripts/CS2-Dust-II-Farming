@@ -1,0 +1,64 @@
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.png'); /* Set the background image */
+    background-size: cover; /* Ensure the image covers the full page */
+    background-position: center; /* Keep the background centered */
+    background-repeat: no-repeat; /* No repeat */
+    background-attachment: fixed; /* Fixes the background image in place */
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Heading styling */
+h1 {
+    color: #0059ff;
+}
+
+/* Container styling */
+.container {
+    max-width: 800px; /* Make the container responsive */
+    width: 100%; /* Allow the container to take full width */
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
+    background-color: rgba(23, 29, 37, 0.9); /* Semi-transparent background for better visibility */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for emphasis */
+    position: relative; /* Container remains in the same position */
+}
+
+/* Strategy sections */
+.strategy-section {
+    margin-bottom: 30px;
+}
+
+.strategy-section h2 {
+    color: #ffa600;
+}
+
+.strategy-section p {
+    text-align: left;
+    line-height: 1.6;
+    color: #fff; /* White text for contrast with the background */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Shadow for readability */
+}
+
+/* Footer styling */
+footer {
+    margin-top: 40px;
+    color: #777;
+}
+
+.button {
+    display: inline-block; /* Make it inline-block */
+    padding: 10px 20px; /* Add some padding */
+    background-color: #007fdb; /* Blue background */
+    color: white; /* White text */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.button:hover {
+    background-color: #005bb5; /* Darker blue on hover */
+}

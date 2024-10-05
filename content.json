@@ -1,0 +1,41 @@
+{
+    "strategy": {
+      "title": "Dust II Casual Armory Pass Strategy",
+      "sections": [
+        {
+          "heading": "What’s the Strategy?",
+          "content": "Use an SMG-only tactic: Players should purchase a P90; if they can’t afford it, they can opt for a PP-Bizon. As CTs, focus on pushing mid; as Ts, aim for top mid by moving towards the barrel in top middle."
+        },
+        {
+          "heading": "How Does the Round System Work?",
+          "content": "Balanced Rounds: The goal is to maintain a tied score of 7:7. The winning team should allow the losing team to win by locating enemies and letting them shoot you."
+        },
+        {
+          "heading": "Why Aim for 7:7?",
+          "content": "Ensuring Fair Scores: In Casual mode, a score of 7:7 ensures that all players can earn the minimum score for Armory Pass tokens. This helps prevent any team from gaining an early advantage."
+        },
+        {
+          "heading": "How Long Does the Game Take?",
+          "content": "Each round lasts about 30 seconds, meaning that with 30 rounds, the total match time is approximately 7.5 minutes."
+        },
+        {
+          "heading": "How Many Kills for the Armory Pass?",
+          "content": "Score Requirement: To earn tokens, you need at least 40 points. Scoring over 52+ is considered excessive and may lead to being kicked by teammates. Try to keep your score under 45, as higher scores do not yield more stars."
+        },
+        {
+          "heading": "Does Reduced XP Affect Armory Pass Tokens?",
+          "content": "Not at all! Your Armory Pass tokens are based on your in-game statistics, not your XP."
+        },
+        {
+          "heading": "How to Easily Find a Lobby",
+          "content": "If you’re not having trouble finding lobbies, you can skip this step! To find a lobby, you’ll need software to block servers according to your preferences. Follow these steps: 1. Download the tool from CS2 Server Picker [ https://github.com/FN-FAL113/cs2-server-picker/releases/tag/v2.2.3 ]. 2. Extract the files. 3. Close CS2 if it’s running. 4. Open the CS2ServerPicker application. 5. Block all servers. 6. Unblock only those in China."
+        }
+      ],
+      "footer": "Good luck! Play with respect!"
+    },
+    "button": {
+      "text": "My Trade Link :)",
+      "link": "https://steamcommunity.com/tradeoffer/new/?partner=1501053483&token=_cGqGc8U"
+    }
+  }
+  
